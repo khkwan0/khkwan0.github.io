@@ -1,4 +1,4 @@
-import TdClient from 'tdweb_1.8.44/dist/tdweb';
+import TdClient from '../public/tdweb';
 import {config} from './config.js'
 import './style.css'
 
